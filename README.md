@@ -1,7 +1,7 @@
 <h1>Pizza Database and Dashboards</h1>
 <p align="center">
 <img src="https://github.com/andrew-disario/pizza-database-and-dashboards/blob/main/pizza-database-and-dashboards.png?raw=true" height="100%" width="100%" alt="pizza-database-and-dashboards"/>
-</br> Build and design a MySQL database using Google Cloud and Quick Database Diagrams so you can create interactive dashboards with Looker Studio to model revenue and inventory data.
+</br> Build and design a MySQL database and create interactive dashboards to model revenue and inventory data.
   
 <h2>PART I - Design and Build a Relational Database</h2>
 
