@@ -32,7 +32,7 @@
 6. select **Server** and choose **Data Export** to export a dump file.
 7. Choose **pizza_db**, **Export to Self-Contained File** and select **Start Export**.
 
-<h2>PART II - Build Interactive Dashboards</h2>h2>
+<h2>PART II - Build Interactive Dashboards</h2>
 
 <b>Set Up Google Cloud Instance</b>
 1. Go to [cloud.google.com](https://console.cloud.google.com/) and set up an account. (Limited free trial)
